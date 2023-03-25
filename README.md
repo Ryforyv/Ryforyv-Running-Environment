@@ -1,2 +1,2 @@
 # Ryforyv-Running-Environment
-Ryforyv运行时环境应用程序使用标准汉语文字，和Kotlin语言兼容并且相辅相成，我保留Ryforyv文字商标私人持有。
+Ryforyv运行时环境应用程序使用标准汉语文字，和Kotlin语言兼容并且相辅相成，我保留Ryforyv文字商标私人持有。正如只有一个Microsoft,只有一个Ryforyv。
